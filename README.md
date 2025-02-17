@@ -26,7 +26,7 @@ Columns with more than 20% missing values, or uninformative are dropped for furt
 ## Machine Learning (ML) Modeling Approach & Evaluation
 A ML can provide used car dealership analytical insights and answer the question such as "What is the value of my inventory?" Using the used cars price as the target variable, 3 different modeling approaches were tried to minimize Root Mean Squared Error (RMSE).These modeling approaches are: 
 1. Simple Linear Regression with 1 selected input variable - Odometer, which shows a negative correlation with used car sales prices (see graph below)
-![]()
+![](scatter_plot_odometer_and_price.png)
 
 2. Multi-variate Lineaer Regression which incorporated Polynomial Features.
 3. Ridge Regression model with GridSearchCV to find the most optimal alpha value.
