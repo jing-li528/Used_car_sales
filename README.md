@@ -1,2 +1,5 @@
-# Used_car_sales
-Analysis on used car sales to recommend car inventory choices and predict sale prices. 
+# What Drives the Prices of a Used Car? 
+Dataset explored [here:]( )
+Jupyter Notebook with Code [here:]() 
+
+![](kurt.jpeg)
